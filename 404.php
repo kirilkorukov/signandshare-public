@@ -32,14 +32,11 @@
 </head>
 
 <body>
-<?php
-    include_once("/home/peticiic/public_html/analyticstracking.php");
-?>
 
 <div class="container">
 
 <?php
-    include("/home/peticiic/public_html/header.php");
+    include("/header.php");
 ?>
 
 <main class="edit-settings-main">
@@ -55,7 +52,7 @@
 </main>
 
 <?php
-    include("/home/peticiic/public_html/footer.php");
+    include("/footer.php");
 ?>
 </div>
 
