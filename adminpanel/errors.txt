@@ -1,0 +1,12 @@
+
+ Error inserting signatures - First name: Kiril Last name: Korukov Email: a29ydWtvdkBhYnYuYmc, Country: Algeria City: sdf Reason: sdffds
+ Error inserting signatures - First name: Kiril Last name: Korukov Email: a29ydWtvdkBhYnYuYmc, Country: Argentina City: f Reason: 
+ Error inserting signatures - First name: emanuela Last name: fsd Email: a29ydWtvdkBhYnYuYmc, Country: Austria City: asdasd Reason: 
+ Error inserting signatures - First name: xf Last name: sdf Email: a29ydWtvdkBhYnYuYmc, Country: Bahrain City: dsf Reason: 
+ Error inserting signatures - First name: asd Last name: asd Email: a29ydWtvdkBhYnYuYmc, Country: Austria City: sad Reason: 
+ Error inserting signatures - First name: sdf Last name: adf Email: a29ydWtvdkBhYnYuYmc, Country: Azerbaijan City: asd Reason: 
+ Error inserting signatures - First name: Ivana Last name: Koleva Email: a29ydWtvdkBhYnYuYmc, Country: Bulgaria City: Sofia Reason: 
+ Error inserting signatures - First name: Ivana Last name: Koleva Email: a29ydWtvdkBhYnYuYmc, Country: Bulgaria City: Sofia Reason: 
+ Error inserting signatures - First name: Ivana Last name: Koleva Email: a29ydWtvdkBhYnYuYmc, Country: Bulgaria City: Sofia Reason: 
+ Error inserting signatures - First name: Ivana Last name: Koleva Email: a29ydWtvdkBhYnYuYmc, Country: Bulgaria City: Sofia Reason: 
+ Error inserting signatures - First name: Ivana Last name: Koleva Email: a29ydWtvdkBhYnYuYmc, Country: Bulgaria City: Sofia Reason: 
