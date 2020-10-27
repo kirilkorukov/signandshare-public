@@ -1,5 +1,5 @@
 CREATE TABLE users(
-  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  id INT AUTO_INCREMENT,
   firstName VARCHAR(255) NOT NULL,
   lastName VARCHAR(255) NOT NULL,
   email VARCHAR(255) NOT NULL,
@@ -13,5 +13,6 @@ CREATE TABLE users(
   website VARCHAR(100),
   aboutMe VARCHAR(255),
   emailPreferences VARCHAR(3),
-  joined DATE NOT NULL
-)
+  joined DATE NOT NULL,
+  PRIMARY KEY (id)
+);

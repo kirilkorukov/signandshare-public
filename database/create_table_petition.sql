@@ -1,5 +1,5 @@
 CREATE TABLE petition(
-  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  id INT UNSIGNED AUTO_INCREMENT,
   title VARCHAR(255) NOT NULL,
   byWho VARCHAR(255) NOT NULL,
   target VARCHAR(255) NOT NULL,
@@ -12,8 +12,9 @@ CREATE TABLE petition(
   user_id INT NOT NULL,
   path VARCHAR(255),
   featured INT DEFAULT 1,
-  victory INT,
-  closed INT,
+  victory INT DEFAULT 0,
+  closed INT DEFAULT 0,
   letter TEXT,
-  lastUpdate DATE
-)
+  lastUpdate DATE,
+  PRIMARY KEY (id)
+);
