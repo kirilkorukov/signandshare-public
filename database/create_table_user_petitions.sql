@@ -12,6 +12,6 @@ CREATE TABLE user_petitions(
   public VARCHAR(255),
   token VARCHAR(255),
   PRIMARY KEY (id),
-  FOREIGN KEY (user_id) REFERENCES user(id),
-  FOREIGN KEY (petition_id) REFERENCES petitions(id)
+  FOREIGN KEY (user_id) REFERENCES users(id),
+  FOREIGN KEY (petition_id) REFERENCES petition(id)
 );
